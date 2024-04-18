@@ -1,0 +1,19 @@
+{
+    "name": "holoultek/laravel-extra-validations",
+    "description": "More of validation rules for your application",
+    "version": "0.0.1",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Holoultek\\LaravelExtraValidations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ghiath-dev",
+            "email": "ghiath.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
